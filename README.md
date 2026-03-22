@@ -1,10 +1,10 @@
-# 🍽️ CaterSearch — Catering Search Platform
+#  CaterSearch — Catering Search Platform
 
 A full-stack catering search platform built with **Node.js + Express** (backend) and **Next.js 14 + Tailwind CSS** (frontend).
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 catering-platform/
@@ -52,7 +52,7 @@ catering-platform/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -115,7 +115,7 @@ The frontend will be available at **http://localhost:3000**
 
 ---
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 Base URL: `http://localhost:5000`
 
@@ -174,13 +174,9 @@ Creates a new caterer. Requires `Content-Type: application/json`.
 
 ---
 
-### `GET /health`
 
-Health check endpoint.
 
----
-
-## ✨ Features
+##  Features
 
 - **Live debounced search** — 400ms debounce on text inputs to avoid excessive API calls
 - **Price range filter** — Min/max price per plate
@@ -191,29 +187,3 @@ Health check endpoint.
 - **Empty + error states** — Friendly messaging with retry/reset actions
 - **Responsive grid** — 1 → 2 → 3 → 4 columns based on viewport
 - **Keyboard accessible** — Modal closes on Escape, focus management
-
----
-
-## 🌐 Deployment (Optional)
-
-### Frontend → Vercel
-
-1. Push the `frontend/` folder to a GitHub repo
-2. Import on [vercel.com](https://vercel.com)
-3. Set environment variable: `NEXT_PUBLIC_API_URL=https://your-backend-url`
-
-### Backend → Render
-
-1. Push the `backend/` folder to a GitHub repo
-2. Create a new Web Service on [render.com](https://render.com)
-3. Set **Build Command**: `npm install`
-4. Set **Start Command**: `npm start`
-5. Add environment variable: `FRONTEND_URL=https://your-vercel-url`
-
----
-
-## 📬 Submission
-
-After completing the assignment, email the GitHub link or zip file to:
-**adit.jadhav@caterersnearme.in**
-
