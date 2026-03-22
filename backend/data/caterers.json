@@ -1,0 +1,154 @@
+[
+  {
+    "id": "c1a2b3c4-d5e6-7890-abcd-ef1234567890",
+    "name": "Royal Feast Caterers",
+    "location": "Mumbai, Maharashtra",
+    "pricePerPlate": 850,
+    "cuisines": [
+      "North Indian",
+      "Mughlai",
+      "Continental"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "d2e3f4a5-b6c7-8901-bcde-f01234567891",
+    "name": "Spice Garden Events",
+    "location": "Pune, Maharashtra",
+    "pricePerPlate": 650,
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "e3f4a5b6-c7d8-9012-cdef-012345678902",
+    "name": "The Grand Banquet Co.",
+    "location": "Delhi, NCR",
+    "pricePerPlate": 1200,
+    "cuisines": [
+      "Continental",
+      "Italian",
+      "Pan-Asian"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "f4a5b6c7-d8e9-0123-def0-123456789013",
+    "name": "Desi Tadka Catering",
+    "location": "Bangalore, Karnataka",
+    "pricePerPlate": 550,
+    "cuisines": [
+      "South Indian",
+      "North Indian"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "a5b6c7d8-e9f0-1234-ef01-234567890124",
+    "name": "Heritage Kitchen",
+    "location": "Jaipur, Rajasthan",
+    "pricePerPlate": 750,
+    "cuisines": [
+      "Rajasthani",
+      "North Indian",
+      "Mughlai"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "b6c7d8e9-f0a1-2345-f012-345678901235",
+    "name": "Coastal Flavours",
+    "location": "Goa",
+    "pricePerPlate": 900,
+    "cuisines": [
+      "Goan",
+      "Seafood",
+      "Continental"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "c7d8e9f0-a1b2-3456-0123-456789012346",
+    "name": "Annapurna Catering Services",
+    "location": "Hyderabad, Telangana",
+    "pricePerPlate": 620,
+    "cuisines": [
+      "Hyderabadi",
+      "South Indian",
+      "Mughlai"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "d8e9f0a1-b2c3-4567-1234-567890123457",
+    "name": "Zafrani Events",
+    "location": "Lucknow, Uttar Pradesh",
+    "pricePerPlate": 700,
+    "cuisines": [
+      "Awadhi",
+      "Mughlai",
+      "North Indian"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "e9f0a1b2-c3d4-5678-2345-678901234568",
+    "name": "Chennai Cooks",
+    "location": "Chennai, Tamil Nadu",
+    "pricePerPlate": 480,
+    "cuisines": [
+      "South Indian",
+      "Chettinad"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "f0a1b2c3-d4e5-6789-3456-789012345679",
+    "name": "Flavours of Punjab",
+    "location": "Chandigarh, Punjab",
+    "pricePerPlate": 780,
+    "cuisines": [
+      "Punjabi",
+      "North Indian"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-4567-890123456780",
+    "name": "Platinum Caterers",
+    "location": "Mumbai, Maharashtra",
+    "pricePerPlate": 1500,
+    "cuisines": [
+      "Continental",
+      "Italian",
+      "North Indian",
+      "Chinese"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "b2c3d4e5-f6a7-8901-5678-901234567891",
+    "name": "Ekta Catering Co.",
+    "location": "Ahmedabad, Gujarat",
+    "pricePerPlate": 530,
+    "cuisines": [
+      "Gujarati",
+      "North Indian",
+      "Jain"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "30b88411-bf6c-4170-99cc-7685178bb18d",
+    "name": "Masala Tika",
+    "location": "Pune",
+    "pricePerPlate": 100,
+    "cuisines": [
+      "chiken tikka"
+    ],
+    "rating": 3.5
+  }
+]
